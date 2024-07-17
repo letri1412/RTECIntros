@@ -1,3 +1,5 @@
-# PulledFiles
+# Relectech EDM Club Intros Sharing
 
-文件后缀是mp4，点右上角Code下载源码，解压就可以看到视频文件了。
+此项目存档Relectech电子音乐社区片头视频
+
+可以点右上角“Code”下载源码，解压后就可以看到视频文件了。
